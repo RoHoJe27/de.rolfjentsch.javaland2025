@@ -1,0 +1,4 @@
+module de.rolfjentsch.javaland
+{
+
+}

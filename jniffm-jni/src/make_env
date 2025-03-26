@@ -1,0 +1,3 @@
+JAVA_HOME = /usr/lib64/jvm/java-17-openjdk-17
+JAVA_INC = /usr/lib64/jvm/java-17-openjdk-17/include
+JAVA_INC_LINUX = /usr/lib64/jvm/java-17-openjdk-17/include/linux

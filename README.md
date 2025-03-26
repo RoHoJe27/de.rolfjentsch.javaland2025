@@ -1,6 +1,6 @@
-In dieser Stelle werden Sourcen zu meinem Vortrag
+Die Sourcen in diesem Repository gehören zu meinem Vortrag
 NEWCOMER: "JNI vs FFM - eine praktische Gegenüberstellung"
-auf der JavaLand 2025 veröffentlicht werden.
+auf der JavaLand 2025.
 
 https://www.javaland.eu/
 
